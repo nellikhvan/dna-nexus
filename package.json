@@ -1,0 +1,22 @@
+{
+  "name": "dna-nexus",
+  "version": "1.0.0",
+  "description": "Engineer coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "search": "node search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellikhvan/dnanexus.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Nelli Khvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellikhvan/dnanexus/issues"
+  },
+  "homepage": "https://github.com/nellikhvan/dnanexus#readme"
+}
