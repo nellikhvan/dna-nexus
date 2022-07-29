@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nellikhvan/dnanexus/issues"
   },
-  "homepage": "https://github.com/nellikhvan/dnanexus#readme"
+  "homepage": "https://github.com/nellikhvan/dnanexus#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
 }
